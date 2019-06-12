@@ -658,7 +658,7 @@
 				TargetAttributes = {
 					9ADAD4661E563091008AC561 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 4X2K65LNZ3;
+						DevelopmentTeam = 34Z6386468;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Manual;
 						SystemCapabilities = {
@@ -992,7 +992,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 4X2K65LNZ3;
+				DEVELOPMENT_TEAM = 34Z6386468;
 				INFOPLIST_FILE = Storefront/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shopify.buysdk.storefront;
@@ -1008,7 +1008,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 4X2K65LNZ3;
+				DEVELOPMENT_TEAM = 34Z6386468;
 				INFOPLIST_FILE = Storefront/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shopify.buysdk.storefront;
